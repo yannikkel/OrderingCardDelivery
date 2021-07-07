@@ -40,6 +40,7 @@ out/
 *.rar
 
 ### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**r
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
